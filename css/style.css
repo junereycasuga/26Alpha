@@ -4,14 +4,14 @@ body {
 	font-family: 'Open Sans', sans-serif;
 	font-weight: 400;
 	font-size: 1em;
-	color: #8a8683;
-	background-color:#ffffff;
+	color: #fff;
+	background-color:#494949;
 }
 img {
 	max-width: 100%;
 }
 a:link {
-	color: #f68f67;
+	color: #fff;
 	text-decoration: none;
 }
 a:hover {
@@ -34,7 +34,7 @@ a:visited {
 	top:0px;
 	width:100%; 
 	height:auto; 
-	background-color:#ffffff;
+	background-color:#494949;
 	z-index:100;
 }
 #logo {
@@ -83,7 +83,7 @@ a:visited {
 /* Slide 1 */ 
 
 #slide1{
-	background-color:#ffffff;
+	background-color:#5d5d5d;
 }
 #slide1 h1 {
 	font-size: 3.8em;
